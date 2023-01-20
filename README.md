@@ -1,1 +1,1 @@
-# OSHUMATE.github.io
+# oshumate.github.io
